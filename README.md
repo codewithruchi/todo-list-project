@@ -14,7 +14,7 @@ A simple and user-friendly To-Do List application built using HTML, CSS, and Jav
 - JavaScript
 
 ## Live Demo
-(Paste your live link here)
+https://codewithruchi.github.io/todo-list-project/
 
 ## Screenshot
 
