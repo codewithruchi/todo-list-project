@@ -18,4 +18,4 @@ https://codewithruchi.github.io/todo-list-project/
 
 ## Screenshot
 
-![To-Do List Screenshot](screenshot.png)
+![To-Do List Screenshot](todo-screenshot.png)
